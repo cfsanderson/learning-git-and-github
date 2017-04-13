@@ -13,4 +13,7 @@ with Ray VillaLobos on Lynda.com
     - may give you a prompt to save, but probably not for git log
     - also `:wq` quits and saves
     - see [Avanced Vi Cheat Sheet](http://www.lagmonster.org/docs/vi2.html)
-  - `git checkout` - returns to 
+  - `git checkout` - returns to previous commit
+
+
+### Current location: 1:57 - "Working with the staging environment" 
